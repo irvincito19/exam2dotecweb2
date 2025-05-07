@@ -5,10 +5,6 @@ defineProps({
   msg: String,
 })
 
-//ZONA DE TRABAJO DEL EXAMEN
-
-
-
 </script>
 
 <template>
