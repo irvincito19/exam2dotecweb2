@@ -12,7 +12,7 @@ const calcularTotal = () => {
 </script>
 
 <template>
-  <HelloWorld msg="Examen 2do parcial - Tecnologías Web II" />
+  <HelloWorld msg="Examen 2do parcial - Tecnologías Web I" />
   <div>
     <p>Precio: $<span>{{ precioBase }}</span></p>
     <input type="number" v-model="cantidad" placeholder="Cantidad">
