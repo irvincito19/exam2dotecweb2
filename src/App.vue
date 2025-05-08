@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 import { ref } from 'vue';
 
 const precioBase = ref(100); // Precio base
-const cantidad = ref(1); // Cantidad ingresada por el usuario
+const cantidad = ref(2); // Cantidad ingresada por el usuario
 const total = ref(0);
 
 const calcularTotal = () => {
