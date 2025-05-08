@@ -2,7 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import { ref } from 'vue';
 
-const precioBase = ref(100); // Precio base
+const precioBase = ref(200); // Precio Cambiado a 200
 const cantidad = ref(1); // Cantidad ingresada por el usuario
 const total = ref(0);
 
