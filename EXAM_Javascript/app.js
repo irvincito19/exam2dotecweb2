@@ -24,3 +24,5 @@ botonCalcular.addEventListener('click', () => {
     // 9. Actualiza el texto del elemento con id "resultado" con el mensaje: "Total a pagar: $X".
     document.getElementById('resultado').textContent = `Total a pagar: $${total}`;
 });
+
+//Me equivoque al hacer el push :(
